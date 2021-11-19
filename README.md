@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=septiandro-surya&show_icons=true&theme=cobalt)
+![Septiandro stats](https://github-readme-stats.vercel.app/api?username=septiandro-surya&show_icons=true&theme=cobalt)
+[Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=septiandro-surya&layout=compact&theme=cobalt)
     
 
 ## English
