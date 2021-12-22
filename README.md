@@ -6,7 +6,7 @@
 #### Profile
 - My Name : Septiandro Surya Dewangga
 - I am student at One Pati State Islamic Junior High School
-- Did not include the address because it was too much
+- Not designer
 - I learn English from the caretaker of the boarding school
 - Upload repository as me like
 <br><br>
@@ -14,13 +14,13 @@
 #### Profil
 - Namaku : Septiandro Surya Dewangga
 - Aku siswa di MTs Negeri 1 Pati
-- Tidak mencantumkan alamat karena terlalu banyak
+- Bukan Desainer
 - Aku belajar bahasa inggris dari Boarding School disekolahku
 - Upload repository sesuai keinginan
 <br><br>
 #### Software used
 - [Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Figma](https://www.figma.com/)
-- [Canava](https://canva.com/)
+- [Canva](https://canva.com/)
 - [Arduino IDE](https://arduino.cc/)
 - [Visual Studio Code](https://code.visualstudio.com/)
